@@ -12,19 +12,19 @@
     margin-left: 5px;
     font-size: 24pt;
     font-weight: normal;
-    display: inline;
+    display: inline-block;
     height: 100%;
     position: relative;
-    margin-right: 20px;
+    margin-right: 25px;
 }
 
 .block {
     font-size: 18pt;
     font-weight: lighter;
-    display: inline;
+    display: inline-block;
     height: 100%;
     position: relative;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .block:hover {
