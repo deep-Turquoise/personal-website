@@ -24,6 +24,7 @@ body {
 .floatBOX {
     position: absolute;
     margin: auto;
+    align-self: center;
     z-index: 1;
     width: 40%;
     height: 40%;
