@@ -1,6 +1,6 @@
 body {
     font-family: Oswald;
-    background-color: lightcoral;
+    background-color: rebeccapurple;
     height: 100%;
     width: 100%;
     margin: 0px 0px 0px 0px;
@@ -9,8 +9,10 @@ body {
 .backgroundIMG {
     display: block;
     position: relative;
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
+    margin: 0px 0px 0px 0px;
+    overflow: hidden;
 }
 
 .floatBOX {

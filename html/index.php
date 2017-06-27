@@ -12,7 +12,7 @@
             <img src="pages/home/images/main.jpg">
         </div>
         <div class="floatBOX">
-            <p><span style="font-size:18pt;">Nicholas Nelson,</span>is a Systems Administrator/Software Developer at Bayley Construction. Nicholas enjoy's bicycling and playing video games. In the near future, Nicholas intends on pursuing a CISSP.</p>
+            <p><span style="font-size:18pt;">Nicholas Nelson,</span> is a Systems Administrator/Software Developer at Bayley Construction. Nicholas enjoy's bicycling and playing video games. In the near future, Nicholas intends on pursuing a CISSP.</p>
         </div>
     </div>
 </body>
