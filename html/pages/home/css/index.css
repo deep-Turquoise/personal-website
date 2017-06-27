@@ -23,8 +23,8 @@ body {
 
 .floatBOX {
     position: absolute;
-    margin: auto;
-    display: block;
+    margin: 0 auto;
+    display: table;
     z-index: 1;
     width: 40%;
     height: auto;
