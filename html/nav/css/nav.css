@@ -23,6 +23,7 @@ title {
     display: inline;
     height: 100%;
     position: relative;
+    margin-left: 10px;
 }
 
 .block:hover {
