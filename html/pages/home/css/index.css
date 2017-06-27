@@ -9,19 +9,16 @@ body {
 .main_zone {
     display: block;
     positiion: relative;
-    width: 100%;
-    heigh: 100%;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    max-width: 100%;
+    heigh: auto;
 }
 
-.backgroundIMG {
+.main_zone img {
     position: absolute;
     max-width: 100%;
     height: auto;
     margin-top: 0px;
+    margin-left: 0px;
 }
 
 .floatBOX {
