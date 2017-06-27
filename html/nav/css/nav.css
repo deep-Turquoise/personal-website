@@ -24,6 +24,7 @@
     display: inline-block;
     height: 100%;
     position: relative;
+    margin-top: 0;
     margin-left: 15px;
 }
 
