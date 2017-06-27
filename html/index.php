@@ -3,7 +3,6 @@
 <head>
     <title>nick</title>
     <link href='//fonts.googleapis.com/css?family=Oswald' rel='stylesheet'>
-    <link rel="stylesheet" href="nav/css/nav.css">
     <link rel="stylesheet" href="pages/home/css/index.css">
 </head>
 <body>
