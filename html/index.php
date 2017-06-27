@@ -9,6 +9,6 @@
 <body>
 <div><!--#include file="nav/header.html" --></div>
 <?php include 'nav/nav.php'; ?>
-<h1>Nick was here again and again :D and again! </h1>
+<h1>This is now a php file</h1>
 </body>
 </html>
