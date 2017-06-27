@@ -6,8 +6,14 @@
     <link rel="stylesheet" href="pages/home/css/index.css">
 </head>
 <body>
-<div><!--#include file="nav/header.html" --></div>
-<?php include 'nav/nav.php'; ?>
-<h1>This is now a php file</h1>
+    <?php include 'nav/nav.php'; ?>
+    <div class="main_zone">
+        <div class="backgroundIMG">
+            <img src="pages/home/images/main.jpg">
+        </div>
+        <div class="floatBOX">
+            <p><span style="font-size:18pt;">Nicholas Nelson,</span>is a Systems Administrator/Software Developer at Bayley Construction. Nicholas enjoy's bicycling and playing video games. In the near future, Nicholas intends on pursuing a CISSP.</p>
+        </div>
+    </div>
 </body>
 </html>
