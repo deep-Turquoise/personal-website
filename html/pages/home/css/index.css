@@ -22,7 +22,8 @@ body {
 }
 
 .floatBOX {
-    position: absolute;
+    display: block;
+    z-index: 1;
     margin: auto;
     max-width: 40%;
     height: auto;
@@ -33,6 +34,5 @@ body {
 
 .floatBOX p {
     color: white;
-    padding: 10px 10px 10px 10px;
     font-size: 14pt;
 }
