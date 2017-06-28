@@ -7,9 +7,11 @@
     </head>
     <body>
     <?php include '../../../nav/nav.php'; ?>
-    <h1>CST 336</h1>
     <div class="main_zone">
         <img src="img/background.jpg">
+        <div class="floatingTABLE">
+            <h1 style="text-align: center;">CST 336</h1>
+        </div>
         <div class="floatingTABLE">
             <table style="width: 100%;">
                 <tr>
