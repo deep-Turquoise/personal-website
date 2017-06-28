@@ -16,6 +16,7 @@
     height: 100%;
     position: relative;
     margin-right: 25px;
+    color: white;
 }
 
 .block {
@@ -25,6 +26,7 @@
     height: 100%;
     margin-top: 0;
     margin-left: 15px;
+    color: white;
 }
 
 .block a {
