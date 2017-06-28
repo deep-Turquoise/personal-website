@@ -1,15 +1,21 @@
 body {
     font-family: Oswald;
-    background-image: url("http://nicholasnelson.me/pages/school/cst336/img/background.jpg");
-    background-color: #cccccc;
+    background-color: grey;
     width: 100%;
     height: 100%;
     margin-top: 0px;
     margin-left: 0px;
-    position: fixed;
+}
+
+.main_zone img {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    position: relative;
 }
 
 .floatingTABLE {
+    position: absolute;
     width: 50%;
     height: auto;
     margin: auto;
