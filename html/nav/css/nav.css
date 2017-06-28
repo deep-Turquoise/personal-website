@@ -27,6 +27,10 @@
     margin-left: 15px;
 }
 
+.block a {
+    color: white;
+}
+
 .block:hover {
     cursor: pointer;
     background-color: white;

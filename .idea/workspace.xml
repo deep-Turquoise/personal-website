@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db0e0b2c-f51d-4e25-a7e6-241766503f5d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/nav/nav.php" afterPath="$PROJECT_DIR$/html/nav/nav.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/nav/css/nav.css" afterPath="$PROJECT_DIR$/html/nav/css/nav.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,8 +65,8 @@
           <file leaf-file-name="nav.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/nav/css/nav.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="375">
-                  <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+                <state relative-caret-position="450">
+                  <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
                   <folding />
                 </state>
               </provider>
@@ -95,7 +95,6 @@
         <option value="$PROJECT_DIR$/html/pages/magic.php" />
         <option value="$PROJECT_DIR$/html/magic.php" />
         <option value="$PROJECT_DIR$/html/index.html" />
-        <option value="$PROJECT_DIR$/html/nav/css/nav.css" />
         <option value="$PROJECT_DIR$/html/pages/school/csumb/cs336/module1/css/cst336.css" />
         <option value="$PROJECT_DIR$/html/pages/school/csumb/cs336/module1/cst336.php" />
         <option value="$PROJECT_DIR$/html/index.php" />
@@ -103,6 +102,7 @@
         <option value="$PROJECT_DIR$/html/pages/school/cst336/cst336.php" />
         <option value="$PROJECT_DIR$/html/nav/header.html" />
         <option value="$PROJECT_DIR$/html/nav/nav.php" />
+        <option value="$PROJECT_DIR$/html/nav/css/nav.css" />
       </list>
     </option>
   </component>
@@ -406,7 +406,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15675000" />
+    <option name="totallyTimeSpent" value="15731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -670,18 +670,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/nav/css/nav.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/nav/nav.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/nav/css/nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
           <folding />
         </state>
       </provider>
