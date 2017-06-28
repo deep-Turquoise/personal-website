@@ -14,7 +14,7 @@
                 <th>Week 1</th>
                 <th>
                     <ul>
-                        <li><a href="nicholasnelson.me">Home Page</a></li>
+                        <li><a href="http://nicholasnelson.me/">Home Page</a></li>
                         <li>Class Page - This Page</li>
                     </ul>
                 </th>
