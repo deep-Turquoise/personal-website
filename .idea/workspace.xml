@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db0e0b2c-f51d-4e25-a7e6-241766503f5d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/pages/school/cst336/css/cst336.css" afterPath="$PROJECT_DIR$/html/pages/school/cst336/css/cst336.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/nav/nav.php" afterPath="$PROJECT_DIR$/html/nav/nav.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,21 +28,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="cst336.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="cst336.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html/pages/school/cst336/cst336.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+                <state relative-caret-position="195">
+                  <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="nav.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="nav.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/nav/nav.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+                <state relative-caret-position="45">
+                  <caret line="3" column="67" lean-forward="false" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
                   <folding />
                 </state>
               </provider>
@@ -112,9 +111,9 @@
         <option value="$PROJECT_DIR$/html/pages/home/css/index.css" />
         <option value="$PROJECT_DIR$/html/nav/header.html" />
         <option value="$PROJECT_DIR$/html/nav/css/nav.css" />
-        <option value="$PROJECT_DIR$/html/nav/nav.php" />
         <option value="$PROJECT_DIR$/html/pages/school/cst336/cst336.php" />
         <option value="$PROJECT_DIR$/html/pages/school/cst336/css/cst336.css" />
+        <option value="$PROJECT_DIR$/html/nav/nav.php" />
       </list>
     </option>
   </component>
@@ -461,7 +460,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18779000" />
+    <option name="totallyTimeSpent" value="18879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -696,14 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/nav/nav.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/nav/css/nav.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -720,6 +711,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html/pages/school/cst336/css/cst336.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/pages/school/cst336/cst336.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -730,18 +737,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/pages/school/cst336/cst336.php">
+    <entry file="file://$PROJECT_DIR$/html/nav/nav.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="47" lean-forward="false" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/pages/school/cst336/css/cst336.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="45">
+          <caret line="3" column="67" lean-forward="false" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
           <folding />
         </state>
       </provider>
