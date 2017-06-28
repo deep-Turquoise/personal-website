@@ -9,7 +9,7 @@
     <?php include '../../../nav/nav.php'; ?>
     <h1>CST 336</h1>
     <div class="floatingTABLE">
-        <table style="width:100%">
+        <table>
             <tr>
                 <th>Week 1</th>
                 <th>
