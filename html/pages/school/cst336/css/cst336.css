@@ -6,6 +6,7 @@ body {
     height: 100%;
     margin-top: 0px;
     margin-left: 0px;
+    position: fixed;
 }
 
 .floatingTABLE {
