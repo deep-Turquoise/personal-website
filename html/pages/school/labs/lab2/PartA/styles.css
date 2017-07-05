@@ -5,7 +5,8 @@ body {
 table {
     position: absolute;
     top: 0;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .center_text {
@@ -20,7 +21,7 @@ table {
     background-color: lightgreen;
 }
 
-.style1 .style2 {
+.style1, .style2 {
     padding: 2px 2px 2px 2px;
     text-align: center;
 }
