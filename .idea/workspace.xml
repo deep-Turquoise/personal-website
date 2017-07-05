@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db0e0b2c-f51d-4e25-a7e6-241766503f5d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" afterPath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" afterPath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +14,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.43133584">
+    <splitter split-orientation="horizontal" split-proportion="0.9">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
@@ -29,9 +30,12 @@
           <file leaf-file-name="partb.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-                  <folding />
+                <state relative-caret-position="225">
+                  <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+                  <folding>
+                    <marker date="1499297238000" expanded="true" signature="704:838" ph="..." />
+                    <marker date="1499297238000" expanded="true" signature="840:846" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -63,8 +67,8 @@
           <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+                <state relative-caret-position="210">
+                  <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
@@ -104,8 +108,8 @@
         <option value="$PROJECT_DIR$/html/pages/school/cst336/css/cst336.css" />
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartA/parta.php" />
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartA/styles.css" />
-        <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" />
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" />
+        <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" />
       </list>
     </option>
   </component>
@@ -479,7 +483,7 @@
       <workItem from="1498581713401" duration="1812000" />
       <workItem from="1498668987801" duration="502000" />
       <workItem from="1498835000207" duration="1000" />
-      <workItem from="1499292876391" duration="3403000" />
+      <workItem from="1499292876391" duration="4055000" />
     </task>
     <task id="LOCAL-00001" summary="edits">
       <created>1498611302310</created>
@@ -527,13 +531,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25550000" />
+    <option name="totallyTimeSpent" value="26202000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1234375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -744,19 +748,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php">
+    <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css">
+    <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="225">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <marker date="1499297238000" expanded="true" signature="704:838" ph="..." />
+            <marker date="1499297238000" expanded="true" signature="840:846" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

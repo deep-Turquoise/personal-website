@@ -11,13 +11,15 @@
         <?php
             $num = rand(1, 99);
             $org_num = $num;
+            $delay = 0.1;
             for($x = 0; $x < 10; ++$x) {
                 print "<tr>";
                 for($y = 0; $y < 10; ++$y) {
+                    $delay += 0.1;
                     $img = "notch.png";
                     if($num > 0) { $img = "circle.png"; $num -= 1; }
 
-                    print "<td><img src=\"$img\"</td>";
+                    print "<td><img src=\"$img\" onload=\"this.style.opacity='1';\" style=\"-moz-transition: opacity $delay s; -webkit-transition: opacity $delay s;-o-transition: opacity $delay s; transition: opacity $delay s;\"></td>";
                 }
                 print "</tr>";
             }
