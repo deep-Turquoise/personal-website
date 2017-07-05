@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db0e0b2c-f51d-4e25-a7e6-241766503f5d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" afterPath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" afterPath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,8 +67,8 @@
           <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                <state relative-caret-position="285">
+                  <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
                   <folding />
                 </state>
               </provider>
@@ -108,8 +108,8 @@
         <option value="$PROJECT_DIR$/html/pages/school/cst336/css/cst336.css" />
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartA/parta.php" />
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartA/styles.css" />
-        <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" />
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" />
+        <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" />
       </list>
     </option>
   </component>
@@ -483,7 +483,7 @@
       <workItem from="1498581713401" duration="1812000" />
       <workItem from="1498668987801" duration="502000" />
       <workItem from="1498835000207" duration="1000" />
-      <workItem from="1499292876391" duration="5070000" />
+      <workItem from="1499292876391" duration="5118000" />
     </task>
     <task id="LOCAL-00001" summary="edits">
       <created>1498611302310</created>
@@ -531,7 +531,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27217000" />
+    <option name="totallyTimeSpent" value="27265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -750,8 +750,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding />
         </state>
       </provider>
