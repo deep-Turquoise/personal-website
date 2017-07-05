@@ -15,7 +15,7 @@
             for($x = 0; $x < 10; ++$x) {
                 print "<tr>";
                 for($y = 0; $y < 10; ++$y) {
-                    $delay += 0.03;
+                    $delay += 0.07;
                     $img = "notch.png";
                     if($num > 0) { $img = "circle.png"; $num -= 1; }
 
