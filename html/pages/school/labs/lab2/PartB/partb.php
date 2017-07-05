@@ -19,7 +19,7 @@
                     $img = "notch.png";
                     if($num > 0) { $img = "circle.png"; $num -= 1; }
 
-                    print "<td><img src=\"$img\" style=\"-moz-transition: opacity $delay s; -webkit-transition: opacity $delay s;-o-transition: opacity $delay s; transition: opacity $delay s;\"></td>";
+                    print "<td><img src=\"$img\" style=\"-moz-transition: opacity ". $delay ."s; -webkit-transition: opacity ". $delay ."s;-o-transition: opacity ". $delay ."s; transition: opacity ". $delay ."s;\"></td>";
                 }
                 print "</tr>";
             }
