@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="db0e0b2c-f51d-4e25-a7e6-241766503f5d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" afterPath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" afterPath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,11 +29,11 @@
           <file leaf-file-name="partb.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+                <state relative-caret-position="315">
+                  <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
                   <folding>
-                    <marker date="1499297238000" expanded="true" signature="704:838" ph="..." />
-                    <marker date="1499297238000" expanded="true" signature="840:846" ph="..." />
+                    <marker date="1499297321000" expanded="true" signature="669:803" ph="..." />
+                    <marker date="1499297321000" expanded="true" signature="805:811" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -483,7 +482,7 @@
       <workItem from="1498581713401" duration="1812000" />
       <workItem from="1498668987801" duration="502000" />
       <workItem from="1498835000207" duration="1000" />
-      <workItem from="1499292876391" duration="4055000" />
+      <workItem from="1499292876391" duration="4123000" />
     </task>
     <task id="LOCAL-00001" summary="edits">
       <created>1498611302310</created>
@@ -531,7 +530,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26202000" />
+    <option name="totallyTimeSpent" value="26270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -758,11 +757,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="315">
+          <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
           <folding>
-            <marker date="1499297238000" expanded="true" signature="704:838" ph="..." />
-            <marker date="1499297238000" expanded="true" signature="840:846" ph="..." />
+            <marker date="1499297321000" expanded="true" signature="669:803" ph="..." />
+            <marker date="1499297321000" expanded="true" signature="805:811" ph="..." />
           </folding>
         </state>
       </provider>
