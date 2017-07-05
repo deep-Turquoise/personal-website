@@ -13,7 +13,9 @@ img {
     height: 40px;
     margin: auto;
     opacity: 0;
+    animation-fill-mode: forwards;
 }
+
 
 td img {
     padding: 2px 2px 2px 2px;
