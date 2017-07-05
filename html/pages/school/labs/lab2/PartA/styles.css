@@ -5,7 +5,7 @@ body {
 table {
     position: absolute;
     top: 0;
-    marin: auto;
+    margin: auto;
 }
 
 .center_text {
@@ -22,4 +22,5 @@ table {
 
 .style1 .style2 {
     padding: 2px 2px 2px 2px;
+    text-align: center;
 }
