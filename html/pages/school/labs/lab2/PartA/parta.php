@@ -18,7 +18,7 @@
                 $num = rand(1, 99);
                 $style = "style1";
                 if($num % 2 == 0) { $evens += 1; $style = "style2";}
-                else { $evens += 1;}
+                else { $odds += 1;}
 
                 print "<td class=\"$style\">$num</td>";
             }
@@ -29,7 +29,7 @@
 
         print "<div class=\"center_text\">";
         print "<h1>There are $odds odd numbers and $evens even numbers.</h1>";
-        print "<h1>There are $odds % odd numbers and $evens of even numbers</h1>";
+        print "<h1>There are $odds % odd numbers and $evens % of even numbers</h1>";
         print "</div>";
         ?>
 </body>
