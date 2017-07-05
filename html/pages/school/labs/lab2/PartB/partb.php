@@ -27,6 +27,8 @@
                             -webkit-animation: fadein 1200ms; /* Safari and Chrome */
                             -webkit-animation-delay: " . $delay . "s;
                             -o-animation: fadein 3200ms; /* Opera */
+                            opacity: 0;
+                            animation-fill-mode: forwards;
                             \"</td>";
                 }
                 print "</tr>";
