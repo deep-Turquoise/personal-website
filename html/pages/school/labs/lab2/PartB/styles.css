@@ -1,0 +1,22 @@
+body {
+    font-family: Oswald;
+}
+
+table {
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 10px;
+    height: 10px;
+}
+
+td img {
+    padding: 2px 2px 2px 2px;
+}
+
+.center_text {
+    text-align: center;
+}
