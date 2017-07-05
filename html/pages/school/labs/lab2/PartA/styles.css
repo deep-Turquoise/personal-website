@@ -1,0 +1,21 @@
+body {
+    font-family: Oswald;
+}
+
+table {
+    position: absolute;
+    top: 0;
+    marin: auto;
+}
+
+.center_text {
+    text-align: center;
+}
+
+.style1 {
+    background-color: lightcoral;
+}
+
+.style1 {
+    background-color: lightgreen;
+}
