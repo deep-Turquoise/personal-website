@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="db0e0b2c-f51d-4e25-a7e6-241766503f5d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" afterPath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" afterPath="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,12 +30,12 @@
           <file leaf-file-name="partb.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+                <state relative-caret-position="345">
+                  <caret line="23" column="61" lean-forward="true" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
                   <folding>
-                    <marker date="1499298458000" expanded="true" signature="642:714" ph="..." />
-                    <marker date="1499298458000" expanded="true" signature="642:715" ph="..." />
-                    <marker date="1499298458000" expanded="true" signature="868:904" ph="..." />
+                    <marker date="1499298495000" expanded="true" signature="642:768" ph="..." />
+                    <marker date="1499298495000" expanded="true" signature="642:769" ph="..." />
+                    <marker date="1499298495000" expanded="true" signature="1150:1186" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -67,8 +68,8 @@
           <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+                <state relative-caret-position="195">
+                  <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
                   <folding />
                 </state>
               </provider>
@@ -108,8 +109,8 @@
         <option value="$PROJECT_DIR$/html/pages/school/cst336/css/cst336.css" />
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartA/parta.php" />
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartA/styles.css" />
-        <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" />
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php" />
+        <option value="$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css" />
       </list>
     </option>
   </component>
@@ -483,7 +484,7 @@
       <workItem from="1498581713401" duration="1812000" />
       <workItem from="1498668987801" duration="502000" />
       <workItem from="1498835000207" duration="1000" />
-      <workItem from="1499292876391" duration="5209000" />
+      <workItem from="1499292876391" duration="5287000" />
     </task>
     <task id="LOCAL-00001" summary="edits">
       <created>1498611302310</created>
@@ -531,7 +532,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27356000" />
+    <option name="totallyTimeSpent" value="27434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -750,20 +751,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="195">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        <state relative-caret-position="345">
+          <caret line="23" column="61" lean-forward="true" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
           <folding>
-            <marker date="1499298458000" expanded="true" signature="642:714" ph="..." />
-            <marker date="1499298458000" expanded="true" signature="642:715" ph="..." />
-            <marker date="1499298458000" expanded="true" signature="868:904" ph="..." />
+            <marker date="1499298495000" expanded="true" signature="642:768" ph="..." />
+            <marker date="1499298495000" expanded="true" signature="642:769" ph="..." />
+            <marker date="1499298495000" expanded="true" signature="1150:1186" ph="..." />
           </folding>
         </state>
       </provider>

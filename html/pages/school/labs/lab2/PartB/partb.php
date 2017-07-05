@@ -20,9 +20,13 @@
                     if($num > 0) { $img = "circle.png"; $num -= 1; }
 
                     print "<td><img src=\"$img\" style=\"
+                            animation: fadein 1200ms;
                             animation-delay: " . $delay . "s;
+                            -moz-animation: fadein 1200ms; /* Firefox */
                             -moz-animation-delay: " . $delay . "s;
+                            -webkit-animation: fadein 1200ms; /* Safari and Chrome */
                             -webkit-animation-delay: " . $delay . "s;
+                            -o-animation: fadein 3200ms; /* Opera */
                             \"</td>";
                 }
                 print "</tr>";
