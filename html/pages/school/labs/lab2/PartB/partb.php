@@ -18,9 +18,10 @@
                     $delay += 0.07;
                     $img = "notch.png";
                     if($num > 0) { $img = "circle.png";}
-                    if($num > 0 && num > 45) { $img = "moon.png";}
-                    if($num > 0 && num > 75) { $img = "mind.png"; }
+                    if($num > 0 && num >= 45 && num < 75) { $img = "moon.png";}
+                    if($num > 0 && num >= 75) { $img = "mind.png"; }
                     $num -= 1;
+
                     print "<td><img src=\"$img\" style=\"
                             animation: fadein 1200ms;
                             animation-delay: " . $delay . "s;
