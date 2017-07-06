@@ -29,12 +29,12 @@
           <file leaf-file-name="partb.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+                <state relative-caret-position="330">
+                  <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
                   <folding>
-                    <marker date="1499299280000" expanded="true" signature="796:922" ph="..." />
-                    <marker date="1499299280000" expanded="true" signature="796:923" ph="..." />
-                    <marker date="1499299280000" expanded="true" signature="1403:1439" ph="..." />
+                    <marker date="1499299310000" expanded="true" signature="796:922" ph="..." />
+                    <marker date="1499299310000" expanded="true" signature="796:923" ph="..." />
+                    <marker date="1499299310000" expanded="true" signature="1403:1439" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -483,7 +483,7 @@
       <workItem from="1498581713401" duration="1812000" />
       <workItem from="1498668987801" duration="502000" />
       <workItem from="1498835000207" duration="1000" />
-      <workItem from="1499292876391" duration="6032000" />
+      <workItem from="1499292876391" duration="6062000" />
     </task>
     <task id="LOCAL-00001" summary="edits">
       <created>1498611302310</created>
@@ -531,7 +531,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28179000" />
+    <option name="totallyTimeSpent" value="28209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -758,12 +758,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab2/PartB/partb.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="330">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
-            <marker date="1499299280000" expanded="true" signature="796:922" ph="..." />
-            <marker date="1499299280000" expanded="true" signature="796:923" ph="..." />
-            <marker date="1499299280000" expanded="true" signature="1403:1439" ph="..." />
+            <marker date="1499299310000" expanded="true" signature="796:922" ph="..." />
+            <marker date="1499299310000" expanded="true" signature="796:923" ph="..." />
+            <marker date="1499299310000" expanded="true" signature="1403:1439" ph="..." />
           </folding>
         </state>
       </provider>

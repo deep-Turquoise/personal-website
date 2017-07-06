@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Lab 2. Part A</title>
+    <title>Lab 2. Part B</title>
     <link href='//fonts.googleapis.com/css?family=Oswald' rel='stylesheet'>
     <link rel="stylesheet" href="styles.css">
 </head>
