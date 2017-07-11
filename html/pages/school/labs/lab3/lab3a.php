@@ -15,15 +15,13 @@
     $received = $_GET['cm'];
     $num = ((int)$received)*0.393701;
     if($received != "") {
-        print $_GET['cm'] . "cm = " . $num . " inches.";
+        print $_GET['cm'] . " cm = " . $num . " inches.";
     }
     ?>
 </div>
 
 <div>
-    <p>
-    </p>
-        <form id="form2" method="get">
+    <form id="form2" method="get">
         Enter inches: <input type="text" name="in" size="10"> <br>
         Convert to:<br>
         <input type="radio" name="convertTo" value="cms">Centimeters <br>
@@ -31,12 +29,16 @@
         <input type="radio" name="convertTo" value="yds">Yards<br>
         <input type="submit" value="Convert!">
     </form>
-    <p></p>
+    <?php
+    $received2 = $_GET['in'];
+    if($received2 != "") {
+        if(isset($convertTo) && $convertTo=="cms") { $return = ((int)$received2)*2.54; }
+        if(isset($convertTo) && $convertTo=="ft") { $return = ((int)$received2)*0.0833333; }
+        if(isset($convertTo) && $convertTo=="yds") { $return = ((int)$received2)*0.0277777666667; }
+
+        print "$received2 in = $return $convertTo";
+    }
+    ?>
 </div>
 </body>
-<?php
-
-$received = $_GET['get']
-
-?>
 </html>
