@@ -24,7 +24,6 @@
                         </th>
                         <td><a href="http://nicholasnelson2142.blogspot.com/2017/06/cst336-internet-programming-module-1.html">Learning Journal</a></td>
                     </tr>
-                    <div class="spacing"></div>
                     <tr>
                         <th>Week 2</th>
                         <th>
@@ -35,7 +34,6 @@
                         </th>
                         <td><a href="http://nicholasnelson2142.blogspot.com/2017/06/cst336-internet-programming-module-2.html">Learning Journal</a></td>
                     </tr>
-                    <div class="spacing"></div>
                     <tr>
                         <th>Week 3</th>
                         <th>
