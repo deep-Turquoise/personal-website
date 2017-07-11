@@ -17,7 +17,7 @@
         Number: <input type="text" name="num6" size="10"> <br>
         Number: <input type="text" name="num7" size="10"> <br>
         Number: <input type="text" name="num8" size="10"> <br>
-        Number: <input type="text" name="num9" size="10"> <br>
+        Number: <input type="text" name="num9" size="10"> <br> <br>
 
         <input type="radio" name="todo" value="shuffle">Shuffle<br>
         <input type="radio" name="todo" value="rsort">Reverse Sort<br>
@@ -42,7 +42,7 @@
 
     $todo = $_GET['todo'];
     if($todo != "") {
-        if(isset($todo) && $todo=="shuffle") { shuffle($arr); print $arr; }
+        if(isset($todo) && $todo=="shuffle") { shuffle($arr); print_r($arr); }
         if(isset($todo) && $todo=="rsort") { rsort($arr); print $arr;}
         if(isset($todo) && $todo=="sort") { sort($arr); print $arr;}
         if(isset($todo) && $todo=="sum") { print sum($arr);}
