@@ -49,10 +49,10 @@
     $todo = $_GET['todo'];
     if($todo != "") {
         if(isset($todo) && $todo=="shuffle") { shuffle($arr); print_Array($arr); }
-        if(isset($todo) && $todo=="rsort") { rsort($arr); print $arr;}
-        if(isset($todo) && $todo=="sort") { sort($arr); print $arr;}
+        if(isset($todo) && $todo=="rsort") { rsort($arr); print_Array($arr); }
+        if(isset($todo) && $todo=="sort") { sort($arr); print_Array($arr); }
         if(isset($todo) && $todo=="sum") { print sum($arr);}
-        if(isset($todo) && $todo=="dups") { print array_unique($arr); }
+        if(isset($todo) && $todo=="dups") { print print_Array(array_unique($arr)); }
     }
     ?>
 </div>
