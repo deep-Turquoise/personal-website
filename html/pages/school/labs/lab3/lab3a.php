@@ -32,8 +32,7 @@
     <?php
     $received2 = $_GET['in'];
     if($received2 != "") {
-        $selected_Val = $_GET['convertTo'];
-        print $selected_Val;
+        $convertTo = $_GET['convertTo'];
         if(isset($convertTo) && $convertTo=="cms") { $return = ((int)$received2)*2.54; }
         if(isset($convertTo) && $convertTo=="ft") { $return = ((int)$received2)*0.0833333; }
         if(isset($convertTo) && $convertTo=="yds") { $return = ((int)$received2)*0.0277777666667; }
