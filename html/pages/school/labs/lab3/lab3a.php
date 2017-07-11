@@ -14,7 +14,9 @@
     <?php
     $received = $_GET['cm'];
     $num = ((int)$received)*0.393701;
-    echo $_GET['cm'] . "cm = " . $num . " inches.";
+    if($received != "") {
+        print $_GET['cm'] . "cm = " . $num . " inches.";
+    }
     ?>
 </div>
 
