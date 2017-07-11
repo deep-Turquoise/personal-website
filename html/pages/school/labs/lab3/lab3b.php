@@ -30,7 +30,7 @@
     <?php
     function print_Array($giv) {
         for($x = 0; $x < count($giv); ++$x) {
-            print $giv[$x];
+            print $giv[$x] . "<br>";
         }
     }
 
