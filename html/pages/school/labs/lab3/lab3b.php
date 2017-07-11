@@ -28,6 +28,12 @@
         <input type="submit" value="Convert to Inches"> <br>
     </form>
     <?php
+    function print_Array($giv) {
+        for($x = 0; $x < count($giv); ++$x) {
+            print $giv[$x];
+        }
+    }
+
     $num0 = (int)$_GET['num0'];
     $num1 = (int)$_GET['num1'];
     $num2 = (int)$_GET['num2'];
@@ -42,7 +48,7 @@
 
     $todo = $_GET['todo'];
     if($todo != "") {
-        if(isset($todo) && $todo=="shuffle") { shuffle($arr); print_r($arr); }
+        if(isset($todo) && $todo=="shuffle") { shuffle($arr); print_Array($arr); }
         if(isset($todo) && $todo=="rsort") { rsort($arr); print $arr;}
         if(isset($todo) && $todo=="sort") { sort($arr); print $arr;}
         if(isset($todo) && $todo=="sum") { print sum($arr);}
