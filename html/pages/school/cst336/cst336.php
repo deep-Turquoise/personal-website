@@ -25,6 +25,26 @@
                         </th>
                         <td><a href="http://nicholasnelson2142.blogspot.com/2017/06/cst336-internet-programming-module-1.html">Learning Journal</a></td>
                     </tr>
+                    <tr>
+                        <th>Week 2</th>
+                        <th>
+                            <ul>
+                                <li><a href="http://nicholasnelson.me/pages/school/labs/lab2/PartA/parta.php">Lab 2 - Part A</a></li>
+                                <li><a href="http://nicholasnelson.me/pages/school/labs/lab2/PartB/partb.php">Lab 2 - Part B</a></li>
+                            </ul>
+                        </th>
+                        <td><a href="http://nicholasnelson2142.blogspot.com/2017/06/cst336-internet-programming-module-2.html">Learning Journal</a></td>
+                    </tr>
+                    <tr>
+                        <th>Week 3</th>
+                        <th>
+                            <ul>
+                                <li><a href="http://nicholasnelson.me/">Home Page</a></li>
+                                <li>Lab 3</li>
+                            </ul>
+                        </th>
+                        <td><a href="http://nicholasnelson2142.blogspot.com/2017/06/cst336-internet-programming-module-3.html">Learning Journal</a></td>
+                    </tr>
                 </table>
             </div>
         </div>
