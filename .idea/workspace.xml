@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db0e0b2c-f51d-4e25-a7e6-241766503f5d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/pages/school/labs/lab3/lab3a.php" afterPath="$PROJECT_DIR$/html/pages/school/labs/lab3/lab3a.php" />
-    </list>
+    <list default="true" id="db0e0b2c-f51d-4e25-a7e6-241766503f5d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +12,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lab3a.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lab3a.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab3/lab3a.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+            <state relative-caret-position="390">
+              <caret line="26" column="42" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab3b.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab3/lab3b.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -62,6 +70,7 @@
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab3/lab3a.html" />
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab3/action_page.php" />
         <option value="$PROJECT_DIR$/html/pages/school/labs/lab3/lab3a.php" />
+        <option value="$PROJECT_DIR$/html/pages/school/labs/lab3/lab3b.php" />
       </list>
     </option>
   </component>
@@ -486,7 +495,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36373000" />
+    <option name="totallyTimeSpent" value="37983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -545,7 +554,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/index.html" />
     <entry file="file://$PROJECT_DIR$/html/magic.php" />
     <entry file="file://$PROJECT_DIR$/html/index.html" />
     <entry file="file://$PROJECT_DIR$/css/nav.css" />
@@ -723,8 +731,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab3/lab3a.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        <state relative-caret-position="390">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/pages/school/labs/lab3/lab3b.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
           <folding />
         </state>
       </provider>
