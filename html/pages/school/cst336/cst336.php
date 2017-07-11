@@ -8,7 +8,6 @@
     <body>
     <?php include '../../../nav/nav.php'; ?>
     <div class="main_zone">
-        <img src="img/background.jpg">
         <div class="modal">
             <div class="floatingTABLE">
                 <h1 style="text-align: center;">CST 336</h1>
