@@ -32,7 +32,7 @@
                                 <li><a href="http://nicholasnelson.me/pages/school/labs/lab2/PartB/partb.php">Lab 2 - Part B</a></li>
                             </ul>
                         </th>
-                        <td><a href="http://nicholasnelson2142.blogspot.com/2017/06/cst336-internet-programming-module-2.html">Learning Journal</a></td>
+                        <td><a href="https://nicholasnelson2142.blogspot.com/2017/07/cst336-internet-programming-module-2.html">Learning Journal</a></td>
                     </tr>
                     <tr>
                         <th>Week 3</th>
@@ -42,7 +42,7 @@
                                 <li>Lab 3</li>
                             </ul>
                         </th>
-                        <td><a href="http://nicholasnelson2142.blogspot.com/2017/06/cst336-internet-programming-module-3.html">Learning Journal</a></td>
+                        <td><a href="https://nicholasnelson2142.blogspot.com/2017/07/cst336-internet-programming-module-3.html">Learning Journal</a></td>
                     </tr>
                 </table>
             </div>
