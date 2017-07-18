@@ -38,11 +38,21 @@
                         <th>Week 3</th>
                         <th>
                             <ul>
-                                <li><a href="http://nicholasnelson.me/">Home Page</a></li>
-                                <li>Lab 3</li>
+                                <li><a href="http://nicholasnelson.me/pages/school/labs/lab3/lab3a.php">Lab 3 - Part A</a></li>
+                                <li><a href="http://nicholasnelson.me/pages/school/labs/lab3/lab3b.php">Lab 3 - Part B</a></li>
                             </ul>
                         </th>
                         <td><a href="https://nicholasnelson2142.blogspot.com/2017/07/cst336-internet-programming-module-3.html">Learning Journal</a></td>
+                    </tr>
+                    <tr>
+                        <th>Week 4</th>
+                        <th>
+                            <ul>
+                                <li><a href="http://nicholasnelson.me/pages/school/labs/lab4/lab/index.php">Lab 4</a></li>
+                                <li><a href="http://nicholasnelson.me/pages/school/labs/lab4/CST336-Assignment4/index.php">Assignment 4: Team Project</a></li>
+                            </ul>
+                        </th>
+                        <td><a href="https://nicholasnelson2142.blogspot.com/2017/07/cst336-internet-programming-module-4.html">Learning Journal</a></td>
                     </tr>
                 </table>
             </div>
